@@ -1,0 +1,13 @@
+# secrets and local state
+secrets.env
+.cloud-key.json
+terraform/.cloud-key.json
+terraform/terraform.tfvars
+terraform/*.tfstate*
+terraform/.terraform/
+terraform/crash.log
+
+# python
+.venv/
+__pycache__/
+*.pyc

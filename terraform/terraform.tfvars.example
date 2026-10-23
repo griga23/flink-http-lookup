@@ -1,0 +1,7 @@
+confluent_cloud_api_key    = "<cloud api key>"
+confluent_cloud_api_secret = "<cloud api secret>"
+owner_user_id              = "u-xxxxxx"      # user that owns the resource-scoped keys
+environment_id             = "env-xxxxxx"
+kafka_cluster_id           = "lkc-xxxxxx"
+compute_pool_id            = "lfcp-xxxxxx"
+mock_api_base_url          = "https://<your-mock-host>"
